@@ -1,1 +1,6 @@
-﻿
+﻿{
+  "version": "1.0.1",
+  "download_url": "https://raw.githubusercontent.com/Dogface2k/dayz-dma-updates/main/DayZ-DMA-1.0.1.zip",
+  "sha256": "7D15DED636724B4F19B23C1D7011F32E7AF40EDF92ACCA2E4DD155759864563A",
+  "mandatory": true
+}
